@@ -1,0 +1,3 @@
+1. Developers should not steal any personal or company data because such behavior is an invasion of privacy
+2. Developers should not use company's resources to do their own projects rather than company projects 
+3. Developers should not tell other people about what project they are working on or what technic they are using/developing unless they have permission to do so, since such behavior may cause troubles to company

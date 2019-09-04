@@ -1,12 +1,12 @@
 1. stakeholders could be 
-	_editors<br /> photographers <br />journalists <br /> newspapers company <br />_
+	_<br />editors<br /> photographers <br />journalists <br /> newspapers company_
 2. users could be 
-	_editors <br /> designers<br />_
+	_<br />editors <br /> designers_
 3. system requirements could be 
-	_stable <br />respond soon <br /> easy for non-programmers to use.<br />_
+	_<br />stable <br />respond soon <br /> easy for non-programmers to use._
 4. system functional requirements could be 
-	_keep all data (images) secure<br />_
-	_make sure only users (designers/editors) have the permission to use (password)<br />_
-	_display photos in wherever users want to put<br />_
-	_resize photos easily<br />_
+	_<br />keep all data (images) secure_
+	_<br />make sure only users (designers/editors) have the permission to use (password)_
+	_<br />display photos in wherever users want to put_
+	_<br />resize photos easily_
 	

@@ -1,9 +1,10 @@
 import pytest
-import main
+import login_pass
 
-# This will pass the test
+# For Students' login function
+# This will test if users' name and password match the data in database
 def test_login_pass():
     usernameInDB = "user"
     passwordInDB = "password"  
-    assert main.get_login_password() == passwordInDB and main.get_login_username() == usernameInDB
+    assert login_pass.get_login_password() == passwordInDB and login_pass.get_login_username() == usernameInDB
 

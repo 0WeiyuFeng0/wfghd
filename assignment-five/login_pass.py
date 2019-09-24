@@ -1,3 +1,5 @@
+
+# simulate users' input
 def get_login_password():
     InputPassword = "password"
     return InputPassword

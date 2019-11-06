@@ -72,8 +72,6 @@
 -  Use Case 1: Input and Manage Customer Information<br>
 
 ![](https://github.com/0WeiyuFeng0/wfghd/blob/master/assignment-eight/UseCase1.png)
-
-![](https://github.com/0WeiyuFeng0/wfghd/blob/master/assignment-eight/UseCase2.png)
 	
 |Use-case name|Input and Manage Customer Information |
 |--|--|
@@ -84,6 +82,8 @@
 |Extensition Point|Search customer|
 
 -  User Case 2: Create Open Source Software Health and Sustainability Report<br>
+
+![](https://github.com/0WeiyuFeng0/wfghd/blob/master/assignment-eight/UseCase2.png)
 
 |Use-case Name|Create Open Source Software Health and Sustainability Report|
 |--|--|
